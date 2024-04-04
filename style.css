@@ -2,7 +2,14 @@ body {
     background: lightcyan;
   }
 
-.dogBreeds {
-  font-style: normal;
+.breeding {
+  font-style: oblique;
   background-color: white;
+  font-size: xx-large;
+}
+
+.whelping {
+  font-style: oblique;
+  background-color: white;
+  font-size: xx-large;
 }
